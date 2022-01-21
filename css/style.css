@@ -1,0 +1,60 @@
+.container{
+     background-color: #FFFBF0;
+}
+.header-content h1{
+    color: #FABE4C;
+    font-size: 40px;
+    text-transform: uppercase;
+    /* line-height: 55px; */
+}
+
+button.btn {
+    background-color: #a4bc46;
+    font-size: 14px;
+    /* color: black; */
+}
+.header-content img{
+    width: 400px;
+    height: 400px;
+
+}
+.header-content a{
+    color: #fff;
+}
+.section .woman-production h2{
+    color: #363958;
+
+}
+.section .man-production h2{
+    color: #363958;
+
+}
+/* .section .woman-production .card-footer span{
+    color: #FABE4C;
+} */
+span.fs-5 {
+    color: #fabe4c;
+    font-weight: 700;
+}
+
+
+/* ====  sercive  start ===== 04 */
+.service h5{
+    color: #363958;
+    font-size: 28px;
+    line-height: 35px;
+}
+.service p{
+    color: #3e3e3e;
+    font-size: 20px;
+}
+.service-img{
+    height: 100px;
+    width: 100px;
+}
+ .service .service-right-img img{
+    height: auto;
+    width: 100%;
+    padding-top: 40px;
+}
+/* ====  sercive  start ===== 04 */
